@@ -1,0 +1,69 @@
+{
+  "1w1": {
+    "question": "Existe um quadro sintético discriminando os produtos/serviços ofertados, com estimativas de quantidade e meta periódica de vendas (mensal, trimestral ou sazonal)?",
+    "department": "comercial",
+    "relevance": true
+  },
+  "1w2": {
+    "question": "Os preços dos produtos/serviços ofertados, levam em conta tanto os custos da empresa como os valores que o mercado está praticando?",
+    "department": "gestão estratégica"
+  },
+  "1w3": {
+    "question": "É realizada análise periódica (mensal, trimestral etc) do alcance das metas de vendas, considerando os produtos/serviços ofertados, a segmentação de mercados e os grupos de clientes?",
+    "department": "comercial"
+  },
+  "1w4": {
+    "question": "São realizadas análises dos concorrentes e da parcela de participação da empresa em relação aos concorrentes nesse mercado?",
+    "department": "comercial"
+  },
+  "1w5": {
+    "question": "É avaliada periodicamente a energia comercial (força e estrutura de vendas, utilização de ferramentas de marketing, capacidade de distribuição) que a empresa utiliza na disputa pelos clientes em relação ao faturamento que está sendo alcançado?",
+    "department": "gestão estratégica",
+    "relevance": true
+  },
+  "1w6": {
+    "question": "Há espaço para a empresa ampliar a oferta de produtos/serviços, considerando o potencial da demanda?",
+    "department": "comercial"
+  },
+  "1w7": {
+    "question": "Refletindo sobre os produto/serviços oferecidos pela empresa ao mercado, são analisadas quais necessidades, desejos ou impulsos/vontades dos consumidores estão sendo atendidos por esses produtos/serviços?",
+    "department": "comercial",
+    "relevance": true
+  },
+  "1w8": {
+    "question": "Pensando sobre os produto/serviços oferecidos pela empresa ao mercado, verifica-se a existência de diferenciais competitivos nas ofertas da empresa?",
+    "department": "comercial"
+  },
+  "1w9": {
+    "question": "A empresa faz periodicamente a análise abrangente sobre a entrada de possíveis produtos/serviços substitutos/alternativos no mercado?",
+    "department": "gestão estratégica"
+  },
+  "1w10": {
+    "question": "É conhecida a situação do mercado e observada a expectativa sobre este — estagnado, crescente, decrescente — diante do quadro econômico como um todo?",
+    "department": "gestão estratégica"
+  },
+  "1w11": {
+    "question": "Periodicamente é analisada a possibilidade de lançamento de novos produtos/serviços (até em outros mercados)? Também é analisada a possiblidade de exclusão de atuais produtos/serviços ofertados no catálogo?",
+    "department": "comercial"
+  },
+  "1w12": {
+    "question": "Os preços estão sendo elevados acima, no mesmo nível ou abaixo dos custos?",
+    "department": "gestão estratégica"
+  },
+  "1w13": {
+    "question": "É feita análise sobre a divulgação/publicidade dos produtos ou serviços, fazendo-se comparação com o nível de vendas, para saber se está conforme o programado no planejamento de divulgação/publicidade?",
+    "department": "comercial"
+  },
+  "1w14": {
+    "question": "É feita análise da percepção dos consumidores sobre as marcas, observando se elas agregam valor e trazem bons resultados?",
+    "department": "comercial"
+  },
+  "1w15": {
+    "question": "Sobre o gerenciamento das marcas, se cuida delas adequadamente, são licenciadas e é realizado o seu devido acompanhamento?",
+    "department": "administrativa"
+  },
+  "1w16": {
+    "question": "A satisfação e a insatisfação dos clientes são avaliadas periodicamente para que seja possível identificar oportunidades de melhoria da empresa e de seus produtos?",
+    "department": "gestão estratégica"
+  }
+}

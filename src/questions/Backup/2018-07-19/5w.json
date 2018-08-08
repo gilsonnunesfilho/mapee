@@ -1,0 +1,53 @@
+{
+  "5w1": {
+    "question": "A verificação da rentabilidade do patrimônio constitui o principal indicador empresarial, porque mede o retorno do investimento aos sócios. A rentabilidade é calculada mediante a divisão do lucro líquido pelo patrimônio líquido. O resultado é expresso em porcentagem. Então, analisando a rentabilidade da empresa, verifica-se: está abaixo da meta por ela estabelecida, não se tem meta ou está acima?",
+    "department": "financeira",
+    "relevance": true
+  },
+  "5w2": {
+    "question": "A margem das vendas é a divisão do lucro líquido pelas vendas líquidas, expressa em porcentagem. Assim, analisando o potencial do negócio e a média do setor, observa-se que a margem de vendas está abaixo da meta estabelecida pela empresa, não se tem meta ou está acima?",
+    "department": "financeira"
+  },
+  "5w3": {
+    "question": "O crescimento das vendas é medido considerando a evolução da receita líquida das vendas em reais, descontada a inflação média apontada pela variação do IPCA-IBGE. Então, analisando o potencial do negócio e a média do setor, o crescimento das vendas está abaixo da meta estabelecida para a empresa, não se tem meta ou está acima?",
+    "department": "financeira"
+  },
+  "5w4": {
+    "question": "A liquidez corrente é o ativo circulante dividido pelo passivo circulante. Assim, analisando a média do setor, observa-se que o número obtido está abaixo da meta estabelecida pela empresa, não se tem meta ou está acima da meta?",
+    "department": "financeira"
+  },
+  "5w5": {
+    "question": "A liquidez geral mostra a relação entre os recursos empresariais que não estão “imobilizados” e o total da dívida do negócio. É calculada pela divisão da soma do ativo circulante mais o realizável no longo prazo pela soma do exigível total. Dessa divisão, obtém-se um índice. Se for menor que 1, conclui-se que o negócio, para manter a solvência, dependerá dos lucros futuros, da renegociação das dívidas ou da venda de ativos. Então, analisando o seu índice, entende-se que a posição da empresa é confortável ou ela está numa situação delicada?",
+    "department": "financeira"
+  },
+  "5w6": {
+    "question": "A riqueza criada por uma empresa é a diferença entre o total das receitas menos o valor total dos insumos empregados na produção. Com isso, fazendo a análise do seu negócio quanto à riqueza criada por empregado (produtividade da mão de obra), levando em conta o seu potencial e a média do setor, a empresa está abaixo da meta estabelecida, não tem meta ou está acima?",
+    "department": "financeira"
+  },
+  "5w7": {
+    "question": "Analisando a empresa, verifica-se um clima organizacional positivo, amistoso, colaborativo e favorável à construção de um sentimento de pertença entre os colaboradores?",
+    "department": "recursos humanos",
+    "relevance": true
+  },
+  "5w8": {
+    "question": "Índices como turnover, absenteísmo, afastamentos e acidentes são monitorados e possuem política de prevenção e controle?",
+    "department": "recursos humanos"
+  },
+  "5w9": {
+    "question": "Pesquisando a satisfação dos moradores da vizinhança com a operação do negócio, verifica-se que os vizinhos se queixam em órgãos públicos contra a empresa ou, por outro lado, a vizinhança demonstra satisfação?",
+    "department": "gestão estratégica"
+  },
+  "5w10": {
+    "question": "Pesquisando sobre o interesse, a integração ou a participação na promoção de atividades sociais e comunitárias, constata-se que ocorre um relacionamento próximo e proativo com a sociedade?",
+    "department": "gestão estratégica"
+  },
+  "5w11": {
+    "question": "A empresa possui Balanço Social das suas atividades?",
+    "department": "gestão estratégica"
+  },
+  "5w12": {
+    "question": "Observando a atenção da empresa sobre as questões de sustentabilidade — ambiental, social e econômico-financeira —, verifica-se que são priorizadas decisões que consideram o conceito integrado de sustentabilidade, assim demonstrando o interesse dos sócios no retorno do negócio de modo ampliado e, não só, no resultado financeiro?",
+    "department": "gestão estratégica",
+    "relevance": true
+  }
+}

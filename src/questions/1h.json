@@ -1,0 +1,147 @@
+{
+    "1h1": {
+        "question": "São seguidos processos de trabalho padronizados e documentados que vão sendo atualizados para melhoria contínua? Esses processos levam em consideração, pelo menos: compras, finanças, produção, qualidade, pessoal, estratégia, vendas, marketing, meio ambiente e relações públicas/comunicação?",
+        "department": "administrativa",
+        "relevance": "true"
+    },
+    "1h2": {
+        "question": "Analisando as áreas de vendas, de recebimento dos valores vendidos, de produção e de entrega, observa-se que elas têm canal de comunicação com troca permanente de notícias e dados?",
+        "department": "gestão estratégica",
+        "relevance": "false"
+    },
+    "1h3": {
+        "question": "Os sistemas de tecnologia, informação e comunicação (TIC) atendem as necessidades operacionais da empresa? Tais sistemas contribuem para aumentar a sua competitividade? ",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h4": {
+        "question": "Sobre a área de compras — de matérias-primas, mercadorias, insumos diversos e bens para o ativo fixo —, observase que existem processos definidos e com visão estratégica para otimização dos recursos da empresa?",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h5": {
+        "question": "Sobre o fornecimento de mercadorias/insumos estratégicos necessários à operação; a oferta é abundante e existe concorrência entre fornecedores, não havendo risco de dependência no que se refere à aquisição de insumos pela empresa?",
+        "department": "gestão estratégica",
+        "relevance": "false"
+    },
+    "1h6": {
+        "question": "Os fornecedores são selecionados com critérios definidos e seus desempenhos são avaliados periodicamente? ",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h7": {
+        "question": "Para aferir e analisar os seus processos e a sua produtividade, a empresa adota indicadores que permitam comparar a sua performance com os desempenhos de congêneres (benchmarking) e com empresas tidas como referência em cada área de gestão?",
+        "department": "gestão estratégica",
+        "relevance": "false"
+    },
+    "1h8": {
+        "question": "Sobre as informações contábeis, os balancetes mensais são disponibilizados no início do mês e auditados periodicamente?",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h9": {
+        "question": "Os balancetes mensais são analisados e utilizados pela alta administração como instrumento para gerenciar as contas do negócio? ",
+        "department": "administrativa",
+        "relevance": "true"
+    },
+    "1h10": {
+        "question": "A empresa mantém capital de giro, inclusive estoques de insumos e produtos, adequados para a sua escala de produção e vendas e a um custo financeiro aceitável?",
+        "department": "financeira",
+        "relevance": "false"
+    },
+    "1h11": {
+        "question": "A divisão da sobra de caixa, efetivamente gerada na operação da empresa, é acordada mediante regras e em prazo definido, para ser devidamente alocada entre lucro dos sócios, reservas, fundo para investimento, bonificação para dirigentes e para empregados?",
+        "department": "gestão estratégica",
+        "relevance": "false"
+    },
+    "1h12": {
+        "question": "No que se refere à assessoria jurídica, constata-se que só é contratado serviço advocatício quando surge uma ação judicial ,ou utiliza-se a assessoria no aconselhamento operacional e nos processos de contratação? ",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h13": {
+        "question": "Analisando a questão de segurança, seja do trabalho, dos bens, das informações e dos sistemas, constata-se que se dispõe de procedimentos organizados, sendo seguidas as normas de prevenção e segurança, bem como medidas apropriadas para as respostas a situações de emergência?",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h14": {
+        "question": "Considerando os riscos aos quais o negócio está exposto e os danos que eles podem causar às pessoas e ao ambiente em geral, existe estudo ou plano com identificação, monitoramento e mitigação desses perigos e riscos, bem como estão previstas as respectivas medidas de controle?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h15": {
+        "question": "A empresa mantém apólices de seguros compatíveis com os riscos que são observados no negócio? ",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h16": {
+        "question": "Há método e instalações adequadas para a coleta e o destino dos resíduos que são gerados? A empresa obedece à legislação, existindo programa proativo de gerenciamento de resíduos?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h17": {
+        "question": "Existe sistema de racionalização do uso da água?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h18": {
+        "question": "Existem medidas para uso racional de energia?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h19": {
+        "question": "Existe um mapeamento de processos produtivos que está documentado em um fluxograma? Possibilita a análise do que é passível de terceirização?",
+        "department": "tecnologia e produção",
+        "relevance": "true"
+    },
+    "1h20": {
+        "question": "O layout atual do negócio está adequado e proprociona competitividade à empresa?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h21": {
+        "question": "A estrutura predial e o estado geral das instalações, seja imóvel próprio ou alugado, estão conduzindo a maior produtividade, representando um diferencial competitivo da empresa?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h22": {
+        "question": "A tecnologia empregada pela empresa, em relação às alternativas existentes, possibilita maior produtividade sendo compatível com a situação atual?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h23": {
+        "question": "É mantido o controle dos bens do ativo operacional, com preço (aquisição ou locação), data de registro, localização, depreciação e valor atual de venda no mercado (caso seja próprio)? ",
+        "department": "administrativa",
+        "relevance": "false"
+    },
+    "1h24": {
+        "question": "Existe plano voltado para a manutenção e renovação das máquinas e equipamentos? O plano gera economia operacional e permite análise comparativa entre aquisição ou locação?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h25": {
+        "question": "A empresa possui matriz com as composições dos custos dos produtos/serviços ofertados, incluindo valores unitários e quantitativos de insumos, de horas de trabalho e de horas/máquina que são necessárias para o ciclo completo da operação de produção, desde a recepção dos materiais/inputs até a entrega das vendas?",
+        "department": "tecnologia e produção",
+        "relevance": "true"
+    },
+    "1h26": {
+        "question": "Os dados das composições de custos-padrão são sempre considerados na política de formação de preços?",
+        "department": "tecnologia e produção",
+        "relevance": "false"
+    },
+    "1h27": {
+        "question": "São elaboradas anualmente previsões orçamentárias de gastos, de investimentos, projeções do fluxo de caixa e da capacidade de pagamento?",
+        "department": "financeira",
+        "relevance": "false"
+    },
+    "1h28": {
+        "question": "O orçamento de gastos/investimentos e as projeções do fluxo de caixa e da capacidade de pagamento são acompanhados durante o ano, procurando ajustar as projeções à realidade?",
+        "department": "financeira",
+        "relevance": "true"
+    },
+    "1h29": {
+        "question": "São promovidas melhorias nas práticas de gestão, com o foco em manter a administração alinhada com as exigências daquelas empresas que buscam a excelência?",
+        "department": "gestão estratégica",
+        "relevance": "false"
+    }
+}

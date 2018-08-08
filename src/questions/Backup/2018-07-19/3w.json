@@ -1,0 +1,28 @@
+{
+  "3w1": {
+    "question": "Os atuais sócios possuem experiência empresarial exitosa e/ou contam com executivos experientes?",
+    "department": "gestão estratégica",
+    "relevance": true
+  },
+  "3w2": {
+    "question": "Com relação à sucessão e continuidade empresarial, constata-se que os mais jovens estão ascendendo na hierarquia e/ou há abertura para novos sócios e diretores?",
+    "department": "gestão estratégica"
+  },
+  "3w3": {
+    "question": "Analisando as entregas dos produtos/serviços no mercado, observa-se que os prazos estão sendo cumpridos?",
+    "department": "comercial"
+  },
+  "3w4": {
+    "question": "Analisando o ciclo de vida dos principais produtos/serviços e o mercado, observa-se que eles sofrem interferência da moda e se sabe lidar bem com esse aspecto (isso é bem resolvido)?",
+    "department": "gestão estratégica"
+  },
+  "3w5": {
+    "question": "Mudanças ou evoluções tecnológicas afetam os produtos/serviços ofertados e a empresa sabe lidar bem com esse aspecto (esse fato é aproveitado)?",
+    "department": "gestão estratégica",
+    "relevance": true
+  },
+  "3w6": {
+    "question": "Analisando a localização do estabelecimento, ela está ficando menos adequada à medida que o tempo passa, não sofre interferência do tempo ou está ficando mais vantajosa?",
+    "department": "gestão estratégica"
+  }
+}

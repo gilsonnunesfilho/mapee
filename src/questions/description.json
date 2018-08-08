@@ -1,0 +1,32 @@
+[
+  {
+    "name": "1w",
+    "type": "What?",
+    "description": "Questões sobre O QUE a empresa oferece ao mercado e qual a sua relação com esse mercado."
+  },
+  {
+    "name": "2w",
+    "type": "Where?",
+    "description": "Perguntas que dizem respeito a ONDE a empresa se localiza."
+  },
+  {
+    "name": "3w",
+    "type": "When?",
+    "description": "Questões sobre o QUANDO interferindo na vida da empresa."
+  },
+  {
+    "name": "4w",
+    "type": "Who?",
+    "description": "Perguntas sobre QUEM faz a empresa - sócios, dirigentes, funcionários - e sobre a forma de atuação das pessoas."
+  },
+  {
+    "name": "1h",
+    "type": "How?",
+    "description": "Questões referentes a COMO são os processos de produção e os métodos administrativos."
+  },
+  {
+    "name": "5w",
+    "type": "Why?",
+    "description": "Perguntas sobre o PORQUÊ da empresa ? os resultados alcançados, a sustentabilidade e o retorno social."
+  }
+]

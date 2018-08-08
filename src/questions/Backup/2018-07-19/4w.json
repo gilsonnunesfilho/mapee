@@ -1,0 +1,135 @@
+{
+  "4w1": {
+    "question": "Observando o relacionamento, tanto entre sócios, como entre dirigentes e, uns com os outros (administração interna de conflitos), constata-se que o ambinte na alta direção é positivo para a obtenção de bons resultados para a empresa; ou seria importante uma assessoria externa para harmonizar mais as relações?",
+    "department": "gestão estratégica",
+    "relevance": true
+  },
+  "4w2": {
+    "question": "Observando os processos que regulam a gestão estratégica, constata-se que há norma de Governança Corporativa estabelecida e respeitada, compatível com o porte e estrutra administrativa da empresa?",
+    "department": "gestão estratégica"
+  },
+  "4w3": {
+    "question": "Analisando a expertise e o nível de instrução do quadro dirigente, observa-se que esse nível pode ser considerado um diferencial competitivo da empresa?",
+    "department": "gestão estratégica"
+  },
+  "4w4": {
+    "question": "O quadro gerencial se apresenta como fator diferencial e competitivo da empresa, considerando o grau de instrução e a expertise dos seus gerentes?",
+    "department": "recursos humanos",
+    "relevance": true
+  },
+  "4w5": {
+    "question": "Os ocupantes dos cargos de liderança apresentam-se motivados, demonstram flexibilidade, respeito, capacidade de ouvir, de aceitar contribuições e estimulam o trabalho em equipe?",
+    "department": "recursos humanos"
+  },
+  "4w6": {
+    "question": "Os conflitos interpessoais no trabalho são tratados de forma transparente e imediata, estimulando o diálogo franco e respeitoso?",
+    "department": "recursos humanos"
+  },
+  "4w7": {
+    "question": "Se realizado o planejamento estratégico, no que se refere ao capítulo da matriz SWOT, são realmente bem analisados os pontos fortes e fracos, as oportunidades e ameaças?",
+    "department": "gestão estratégica"
+  },
+  "4w8": {
+    "question": "Continuando com o foco na estratégia, a Missão, Visão e Valores são é internalizados para forjar cultura (Valor) empresarial?",
+    "department": "gestão estratégica"
+  },
+  "4w9": {
+    "question": "Existe monitoramento e avaliação do planejamento estratégico, para assegurar a implantação de cada estratégia e o cumprimento dos objetivos e das metas estabelecidas?",
+    "department": "gestão estratégica"
+  },
+  "4w10": {
+    "question": "Os líderes demonstram ter domínio do seu trabalho e consciência do seu papel para a conquista dos objetivos organizacionais estratégicos?",
+    "department": "recursos humanos"
+  },
+  "4w11": {
+    "question": "Há em prática uma política interna formal de comunicação e que é conhecida por todos?",
+    "department": "recursos humanos"
+  },
+  "4w12": {
+    "question": "Sobre as informações da empresa para o público externo, existe uma assessoria de comunicação especializada e que dá o retorno esperado?",
+    "department": "gestão estratégica"
+  },
+  "4w13": {
+    "question": "A empresa e os sócios possuem cadastro positivo no mercado bancário e junto aos fornecedores?",
+    "department": "financeira"
+  },
+  "4w14": {
+    "question": "Observando as regularidades das situações fiscais e previdenciária (município, estado, União, judiciário e FGTS), constata-se que se dispõe de todas as certidões?",
+    "department": "financeira"
+  },
+  "4w15": {
+    "question": "Há um organograma com as áreas bem definidas, que permite observar a distribuição dos recursos humanos na estrutura da organização, auxiliando o planejamento e a operação da empresa?",
+    "department": "gestão estratégica"
+  },
+  "4w16": {
+    "question": "Os cargos e as funções estão adequadamente nomeados, descritos e representam de forma fiel o disposto no organograma?",
+    "department": "recursos humanos"
+  },
+  "4w17": {
+    "question": "Há informações sistematizadas sobre a força de trabalho para cada função, ajustadas ao mercado, com política de salário, comissão, encargos e benefícios definidos, que também pode orientar uma análise sobre a viabilidade de terceirização de serviços?",
+    "department": "recursos humanos",
+    "relevance": true
+  },
+  "4w18": {
+    "question": "Há política implantada na empresa para avaliação do desempenho dos empregados, quanto a cargo e carreira?",
+    "department": "recursos humanos"
+  },
+  "4w19": {
+    "question": "Há programa formalizado de capacitação e desenvolvimento dos trabalhadores, considerando custos/benefícios, conhecido pela força de trabalho e monitorado em seus resultados?",
+    "department": "recursos humanos"
+  },
+  "4w20": {
+    "question": "Observando o aspecto da criatividade, constata-se que mesmo realizando atividades rotineiras, as pessoas continuam criativas. E, as ideias acolhidas, testadas e postas em prática aperfeiçoam os processos. Há na empresa incentivo à geração de ideias entre colaboradores e parceiros?",
+    "department": "gestão estratégica"
+  },
+  "4w21": {
+    "question": "As reclamações e informações dos clientes são registradas, analisadas e utilizadas para a tomada de ações visando aperfeiçoar os processos, fidelizar os clientes e melhorar o negócio?",
+    "department": "administrativa"
+  },
+  "4w22": {
+    "question": "Observando o investimento em pesquisa, desenvolvimento, inovação e criatividade, verifica-se que o retorno esperado em PD&I  está atendendo a expectativa da empresa?",
+    "department": "gestão estratégica"
+  },
+  "4w23": {
+    "question": "A empresa analisa sistematicamente a lucratividade dos produtos/serviços e realiza suas ofertas com visão estratégica, considerando essas análises?",
+    "department": "comercial",
+    "relevance": true
+  },
+  "4w24": {
+    "question": "Observando a questão da qualidade, verifica-se que há na empresa atenção com a busca da excelência?",
+    "department": "gestão estratégica"
+  },
+  "4w25": {
+    "question": "Existe sistemática formalizada de seleção de pessoal, que estabeleça os pré-requisitos de educação, conhecimentos técnicos e habilidades interpessoais, adequados a cada cargo?",
+    "department": "recursos humanos"
+  },
+  "4w26": {
+    "question": "São identificados cuidados e atenção com a saúde, conforto, melhoria da qualidade de vida e segurança dos trabalhadores?",
+    "department": "recursos humanos"
+  },
+  "4w27": {
+    "question": "A negociação da empresa com os fornecedores, levando em conta a observância dos direitos e das obrigações das partes, está trazendo boas condições de compra?",
+    "department": "financeira"
+  },
+  "4w28": {
+    "question": "Procurando resolver problemas institucionais, ambientais ou externalidades negativas (ações de terceiros que trazem prejuízo), que eventualmente surgem na empresa, os sócios/gestores costumam recorrer a \"\"favorecimentos\"\" e a caminhos informais?",
+    "department": "gestão estratégica"
+  },
+  "4w29": {
+    "question": "A empresa tem relacionamento com suas congêneres e participa efetivamente de associações de classe e do sindicato patronal?",
+    "department": "gestão estratégica"
+  },
+  "4w30": {
+    "question": "A empresa adota código de ética e de conduta que respeita a lei anticorrupção, de forma escrita e amplamente disseminada entre toda a força de trabalho?",
+    "department": "recursos humanos",
+    "relevance": true
+  },
+  "4w31": {
+    "question": "A empresa respeita os direitos humanos básicos dos trabalhadores, promovendo a igualdade de oportunidades e de tratamento para os seus funcionários, independentemente de raça, cor, nacionalidade, condição social, necessidades especiais, orientação sexual, convicções políticas ou religiosas, sexo ou idade?",
+    "department": "recursos humanos"
+  },
+  "4w32": {
+    "question": "A empresa tem procedimentos e canais formalizados e disseminados para registro, apuração e ação sobre denúncias de irregularidades?",
+    "department": "recursos humanos"
+  }
+}
