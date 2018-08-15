@@ -2,61 +2,61 @@
     "5w1": {
         "question": "A empresa tem meta de rentabilidade (divisão do lucro líquido pelo patrimônio líquido)? A rentabilidade está abaixo, acima ou igual à meta estabelecida?",
         "department": "financeira",
-        "relevance": "true"
+        "relevance": true
     },
     "5w2": {
         "question": "A empresa tem meta para a margem de vendas (divisão do lucro líquido pelas vendas líquidas)? A margem de vendas está abaixo, acima ou igual à meta estabelecida?",
         "department": "financeira",
-        "relevance": "false"
+        "relevance": false
     },
     "5w3": {
         "question": "A empresa tem meta para o crescimento das vendas (evolução da receita líquida das vendas em reais, descontada a inflação)? O crescimento das vendas está abaixo, acima ou igual à meta estabelecida?",
         "department": "financeira",
-        "relevance": "false"
+        "relevance": false
     },
     "5w4": {
         "question": "A empresa tem meta para a liquidez corrente (divisão do ativo circulante pelo passivo circulante)? A liquidez corrente está abaixo, acima ou igual à meta estabelecida?",
         "department": "financeira",
-        "relevance": "false"
+        "relevance": false
     },
     "5w5": {
         "question": "A empresa tem meta para o índice de liquidez geral (relação entre os recursos da empresa que não estão “imobilizados” e o total da sua dívida – divisão da soma do ativo circulante mais o realizável no longo prazo pela soma do exigível total)? O índice é menor ou maior que 1,0? (sendo menor, se prevê medidas de ajuste).",
         "department": "financeira",
-        "relevance": "false"
+        "relevance": false
     },
     "5w6": {
         "question": "A empresa tem meta para a riqueza criada por colaborador (produtividade da mão de obra – resultado da diferença entre o total das receitas menos o valor total dos insumos empregados na produção, dividida pelo total de empregados)? A riqueza criada está abaixo, acima ou igual à meta estabelecida?",
         "department": "financeira",
-        "relevance": "false"
+        "relevance": false
     },
     "5w7": {
         "question": "Há na empresa um clima organizacional positivo, amistoso e colaborativo?",
         "department": "recursos humanos",
-        "relevance": "true"
+        "relevance": true
     },
     "5w8": {
         "question": "Índices como turnover, absenteísmo, afastamentos e acidentes são monitorados e possuem política de prevenção e controle?",
         "department": "recursos humanos",
-        "relevance": "false"
+        "relevance": false
     },
     "5w9": {
         "question": "Qual o grau de satisfação da vizinhança com a operação da empresa? Existe queixa formal contra a empresa?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "5w10": {
         "question": "A empresa possui um bom relacionamento com a comunidade do seu entorno? Tem iniciativas na promoção de atividades sociais e comunitárias?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "5w11": {
         "question": "A empresa possui Balanço Social das suas atividades?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "5w12": {
         "question": "A empresa está atenta as questões de sustentabilidade (ambiental, social e econômica)? Ela considera essas questões na tomada de decisões?",
         "department": "gestão estratégica",
-        "relevance": "true"
+        "relevance": true
     }
 }

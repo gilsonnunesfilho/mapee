@@ -2,51 +2,51 @@
     "2w1": {
         "question": "Como é vista a expansão geográfica para outros locais ou pontos de venda?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w2": {
         "question": "Analisando as vantagens/desvantagens da localização para os clientes (segurança, vizinhança, conforto, etc.), conclui-se que a localização é inferior à média da concorrência, está no mesmo nível ou é superior?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w3": {
         "question": "Analisando as vantagens/desvantagens da localização quanto à disponibilidade de fornecedores e à recepção de mercadorias, conclui-se que a localização é inferior à média da concorrência, está no mesmo é superior?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w4": {
         "question": "Analisando as vantagens/desvantagens da localização quanto à logística de entrega das vendas, conclui-se que a localização é inferior à média da concorrência, está no mesmo nível ou tem vantagens?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w5": {
         "question": "Analisando as vantagens/desvantagens da localização quanto à infraestrutura do local (meios e vias de acesso, energia, telecomunicações, água, saneamento), conclui-se que a localização é inferior à média da concorrência, está no mesmo nível ou tem vantagens?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w6": {
         "question": "Analisando as vantagens/desvantagens da localização quanto à oferta e mobilidade da mão de obra, conclui-se que a localização é inferior à média da concorrência, está no mesmo nível ou é superior?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w7": {
         "question": "Analisando as vantagens/desvantagens da localização quanto ao valor pago ou amortizado pelas instalações, concluise que a localização é inferior à média da concorrência, está no mesmo nível ou é superior?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w8": {
         "question": "Analisando as vantagens/desvantagens da localização quanto às alíquotas/benefícios dos principais impostos, conclui-se que a localização é inferior à média da concorrência, está no mesmo nível ou é superior?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w9": {
         "question": "Analisando as vantagens/desvantagens da localização quanto à obtenção e manutenção das licenças locacionais legais (prefeitura, meio ambiente, bombeiros, órgão de controle específico), conclui-se que a localização é inferior à média da concorrência, está no mesmo nível ou é superior?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     },
     "2w10": {
         "question": "A vizinhança da empresa e o ambiente da localidade são aspectos favoráveis para o funcionamento do negócio?",
         "department": "gestão estratégica",
-        "relevance": "false"
+        "relevance": false
     }
 }
